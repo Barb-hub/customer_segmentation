@@ -1,6 +1,6 @@
 ## Objective
 
-The objective of this project is to develop machine learning models for customer segmentation, enabling businesses to offer personalized recommendations such as saving plans, loans, and wealth management services to target customer groups.
+The objective of this project is to develop machine learning models for customer segmentation, enabling businesses to offer personalized wealth management services to target customer groups.
 
 Machine learning plays a significant role in predicting customer behavior. By analyzing patterns in past purchases and interactions, businesses can uncover valuable insights into customers' preferences, enabling more effective marketing campaigns.
 
