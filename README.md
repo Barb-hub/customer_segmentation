@@ -10,7 +10,7 @@ Utilizing these insights allows businesses to refine their marketing strategies 
 
 ## Data
 
-The sample dataset summarizes the usage behavior of about 9000 active credit card holders over the last 6 months. The file is at a customer level with 18 behavioral variables.
+The sample dataset summarizes the usage behavior of about 9000 active credit card holders of a New York City bank over the last 6 months. The file is at a customer level with 18 (behavioral) variables.
 
 ## Algorithms
 
