@@ -17,6 +17,7 @@ The sample dataset summarizes the usage behavior of about 9000 active credit car
 Five clustering algorithms will be used to perform segmentation. These algorithms are:
 
 - [K-Means Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+- [K-Medoids Clustering](https://en.wikipedia.org/wiki/K-medoids)
 - [Agglomerative Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html)
 - [Spectral Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html)
 - [DBSCAN Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)
