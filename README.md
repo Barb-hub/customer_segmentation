@@ -1,12 +1,7 @@
-## Objective
+## Project Objective
 
-The objective of this project is to develop machine learning models for customer segmentation, enabling businesses to offer personalized wealth management services to target customer groups.
+This project aims to develop machine learning models for customer segmentation, helping businesses offer personalized wealth management services. By predicting customer behavior based on past interactions, businesses can gain insights into preferences and improve marketing strategies.
 
-Machine learning plays a significant role in predicting customer behavior. By analyzing patterns in past purchases and interactions, businesses can uncover valuable insights into customers' preferences, enabling more effective marketing campaigns.
-
-Customer behavior refers to how consumers choose and use products, influenced by cultural, social, personal, and psychological factors. To understand and predict these behaviors, businesses employ predictive behavioral analytics and market research.
-
-Utilizing these insights allows businesses to refine their marketing strategies and enhance customer satisfaction and loyalty.
 
 ## Data
 
